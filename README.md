@@ -71,7 +71,7 @@
 
 * `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details!
 
-## Any bugs or errors or suggestions, report at [DevelopedBotzSupport](https://telegram.dog/DevelopedBotz)
+##### Any bugs or errors or suggestions, report at [@DevelopedBotz](https://telegram.dog/DevelopedBotz)
 
 
 ## Installation
